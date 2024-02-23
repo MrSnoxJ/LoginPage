@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>695069080657-u1822n6mbkdbp4aqldsjn37k4f9nthri.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.695069080657-u1822n6mbkdbp4aqldsjn37k4f9nthri</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBoprGQViXr2E30OaZk7UqfHzvQHdzdaJo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>695069080657</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>TipsFromSnox.Habit2</string>
+	<key>PROJECT_ID</key>
+	<string>habit4-de24b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>habit4-de24b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:695069080657:ios:8a13ecde8695b4232d4c70</string>
+</dict>
+</plist>
